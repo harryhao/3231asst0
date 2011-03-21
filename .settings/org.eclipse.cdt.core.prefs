@@ -1,0 +1,7 @@
+#Sun Mar 20 19:18:48 EST 2011
+eclipse.preferences.version=1
+environment/project/0.526539976/PATH/delimiter=\:
+environment/project/0.526539976/PATH/operation=replace
+environment/project/0.526539976/PATH/value=/usr/local/sbin\:/usr/local/bin\:/usr/sbin\:/usr/bin\:/sbin\:/bin\:/usr/games\:/home/harry/cs3231/os161/bin
+environment/project/0.526539976/append=true
+environment/project/0.526539976/appendContributed=true
